@@ -15,7 +15,7 @@
 
 - 📧 E-mail: [luizgabriel.vitoria@gmail.com](mailto:luizgabriel.vitoria@gmail.com)
 - ☆ Telefone: 27 98882-6667
-- @ LinkedIn: linkedin.com/in/luizgof
+- @ LinkedIn: www.linkedin.com/in/luizgof
 ---
 
 <!---
