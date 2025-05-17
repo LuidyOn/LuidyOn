@@ -8,7 +8,7 @@
 - ☕ **Java**
 - 🎲 **SQL**
 - 🔤 **HTML**
-
+##
 ## 📫 talk to me!
 
 - 📧 E-mail: [luizgabriel.vitoria@gmail.com](mailto:luizgabriel.vitoria@gmail.com)
