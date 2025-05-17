@@ -1,6 +1,6 @@
 # Luiz Oliveira
 
-**Computer engineering**
+**Software engineering**
 
 ## Skills
 
