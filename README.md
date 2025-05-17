@@ -9,7 +9,7 @@
 - 🎲 **SQL**
 - 🔤 **HTML**
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuidyOn&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuidyOn&layout=compact)
 
 ## 📫 talk to me!
 
