@@ -8,7 +8,9 @@
 - ☕ **Java**
 - 🎲 **SQL**
 - 🔤 **HTML**
-##
+
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuidyOn&layout=compact)
+
 ## 📫 talk to me!
 
 - 📧 E-mail: [luizgabriel.vitoria@gmail.com](mailto:luizgabriel.vitoria@gmail.com)
